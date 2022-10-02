@@ -5,9 +5,7 @@ Use the arrow keys to direct your ship. Use the spacebar to shoot the space rock
 
 I created this game to blow off steam when you are furustrated with life or a project. It is something you can get lost doing without having to think about anything but destroying the next object.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/n4Rf5W2d4fY)
 
 # Development Environment
 
@@ -24,9 +22,9 @@ Github
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Working game
+* Sound effects
+* Levels of difficulty
 
 # Artwork
 [Photo by Jeremy Thomas] (https://unsplash.com/s/photos/space-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
