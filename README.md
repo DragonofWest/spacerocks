@@ -19,7 +19,7 @@ Github
 # Useful Websites
 * [Python Arcade](https://api.arcade.academy/en/latest/)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Real Python] (https://realpython.com/)
+* [RealArcade] (https://realpython.com/)
 
 # Future Work
 
@@ -29,5 +29,5 @@ Github
 * Item 3
 
 # Artwork
-Photo by Jeremy Thomas (https://unsplash.com/s/photos/space-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Other artwork by Toppng (https://toppng.com/)  
+[Photo by Jeremy Thomas] (https://unsplash.com/s/photos/space-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[Other artwork by Toppng] (https://toppng.com/)  

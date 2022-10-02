@@ -115,7 +115,7 @@ class MyGame(arcade.Window):
         
         self.game_over = False
         
-        #self.background = arcade.load_textures("background.jpg")
+        self.background = arcade.load_textures("background.jpg")
 
         # Sprite lists
         self.player_sprite_list = arcade.SpriteList()
